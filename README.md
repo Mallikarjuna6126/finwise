@@ -1,4 +1,4 @@
-#  FinLit: AI Financial Literacy & Budget Mentor
+#  FinWise: AI Financial Literacy & Budget Mentor
 
 <div align="center">
 
